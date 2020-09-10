@@ -1,4 +1,12 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://taskieti.herokuapp.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Credenciales
+
+mail: "nicolas.ct@mail.com"
+
+Contraseña: "contrasena"
 
 ## Available Scripts
 
